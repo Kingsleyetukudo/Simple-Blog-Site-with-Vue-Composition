@@ -1,0 +1,51 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Welcome to th blog",
+      "body": "hol jahs jbskjfsdf hgjsdfgd hvsdg",
+      "tags": [
+        "webdev",
+        "conding",
+        "news"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "hey to th blog",
+      "body": "hol jahs jbskjfsdf hgjsdfgd hvsdg",
+      "tags": [
+        "webdev",
+        "conding",
+        "news"
+      ]
+    },
+    {
+      "title": "new post",
+      "body": "hey guys",
+      "tags": [
+        "html",
+        "css"
+      ],
+      "id": 3
+    },
+    {
+      "title": "okay testing for routering",
+      "body": "hey hollo me do you",
+      "tags": [
+        "html",
+        "css"
+      ],
+      "id": 4
+    },
+    {
+      "title": "home alone",
+      "body": "hahahah new content",
+      "tags": [
+        "boy",
+        "big"
+      ],
+      "id": 5
+    }
+  ]
+}
